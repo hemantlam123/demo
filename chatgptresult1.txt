@@ -1,0 +1,49 @@
+minimal data engineer resume with 2 years of experience worked on ssis , sql stored procedures , done poc on polybase in past company , and currently im working on redpoint tool as a etl developer
+Sure! Here's an example of a minimal data engineer resume with 2 years of experience:
+
+[Your Name]
+[Contact Information: Phone number, email address]
+[LinkedIn Profile URL]
+
+Objective:
+Results-driven Data Engineer with 2 years of experience in ETL development, proficient in SSIS, SQL stored procedures, and data integration tools. Seeking opportunities to leverage technical expertise and contribute to data-driven initiatives.
+
+Experience:
+Data Engineer | Company XYZ
+[Dates]
+
+- Developed and maintained ETL processes using SSIS, ensuring efficient extraction, transformation, and loading of data from various sources to target databases.
+- Created SQL stored procedures, views, and functions to support data integration and improve data quality.
+- Successfully led a proof of concept (PoC) project on Polybase, exploring its potential for seamless integration of SQL Server and Hadoop data.
+- Collaborated with cross-functional teams to gather requirements, analyze data needs, and deliver scalable and reliable solutions.
+- Actively involved in performance tuning and optimization of ETL workflows, enhancing overall system efficiency.
+
+ETL Developer | Company ABC
+[Dates]
+
+- Worked as an ETL Developer, specializing in data extraction, transformation, and loading using RedPoint Data Management tool.
+- Designed and implemented complex ETL processes, ensuring accurate and timely data integration across various systems and databases.
+- Collaborated with business analysts and stakeholders to understand data requirements and translate them into technical solutions.
+- Developed and maintained SQL stored procedures and scripts to extract, clean, and transform data from diverse sources.
+- Conducted data profiling and quality checks to ensure data integrity and consistency.
+
+Education:
+Bachelor of Science in Computer Science | University Name | Year
+
+Skills:
+- ETL Development: SSIS, RedPoint Data Management
+- Database Technologies: SQL, SQL Server, Polybase
+- Data Integration
+- SQL Stored Procedures
+- Data Profiling and Quality Assurance
+- Performance Tuning
+- Problem-solving
+- Collaboration and Teamwork
+
+Certifications:
+- [List any relevant certifications, if applicable]
+
+References:
+Available upon request
+
+Note: This is a basic template for a data engineer resume. Feel free to expand on your specific accomplishments, add additional sections (such as projects or certifications), and customize the resume according to your needs.
